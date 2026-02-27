@@ -1,4 +1,4 @@
-"""
+
 matriz = [[0 for _ in range(5)] for _ in range(5)]
 
 for i in range(5):
@@ -11,7 +11,4 @@ for fila in matriz:
     for elemento in fila:
         print(elemento, end="\t")
     print()
-"""
 
-v = [[0 for _ in range(3)] for _ in range(3)]
-print(v)
